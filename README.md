@@ -19,13 +19,13 @@ A clean and modern Weather App built using Flutter that fetches real-time weathe
 ## Screenshots
 
 ### Home Screen
-![Home Screen](home_screen.png)
+![Home Screen](screenshots/home_screen.png)
 
 ### Search Result
-![Search Result](search_result.png)
+![Search Result](screenshots/search_result.png)
 
 ### Error State
-![Error State](error_state.png)
+![Error State](screenshots/error_state.png)
 
 ## Setup
 1. Clone the repository
