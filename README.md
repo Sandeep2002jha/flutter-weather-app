@@ -16,16 +16,17 @@ A clean and modern Weather App built using Flutter that fetches real-time weathe
 - HTTP package
 - OpenWeatherMap API
 
+
 ## Screenshots
 
-### Home Screen
-![Home Screen](screenshots/home_screen.png)
+<p align="center">
+  <img src="./home_screen.png" alt="Home Screen" width="250"/>
+  <img src="./search_result.png" alt="Search Result" width="250"/>
+</p>
 
-### Search Result
-![Search Result](screenshots/search_result.png)
-
-### Error State
-![Error State](screenshots/error_state.png)
+<p align="center">
+  <img src="./error_state.png" alt="Error State" width="250"/>
+</p>
 
 ## Setup
 1. Clone the repository
